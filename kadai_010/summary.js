@@ -15,7 +15,7 @@ $(function () {
         $('#target').fadeOut(1000);
     });
 
-    // fade-inの要素をクリックした時フェードアウトを実行
+    // fade-inの要素をクリックした時フェードインを実行
     $('#fade-in').on('click', function() {
         $('#target').fadeIn(1000);
     });
